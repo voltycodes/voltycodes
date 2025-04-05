@@ -1,5 +1,5 @@
 ```
-██╗   ██╗ ██████╗ ██╗  ████████╗██╗   ██╗  |  uptime: 21 yrs
+██╗   ██╗ ██████╗ ██╗  ████████╗██╗   ██╗  |  uptime: 22 yrs
 ██║   ██║██╔═══██╗██║  ╚══██╔══╝╚██╗ ██╔╝  |  langs: py, ts, js, java
 ██║   ██║██║   ██║██║     ██║    ╚████╔╝   |  likes: the internet, linux, minecraft, pokemon
 ╚██╗ ██╔╝██║   ██║██║     ██║     ╚██╔╝    |  hobbies: programming (mostly), anime, shitposting
